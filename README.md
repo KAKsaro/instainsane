@@ -19,7 +19,7 @@ Usage of InstaInsane for attacking targets without prior mutual consent is illeg
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/instainsane
+git clone https://github.com/kakscot/kak.sc0t
 cd instainsane
 chmod +x *
 sudo ./sc0t.script.sh
@@ -40,4 +40,4 @@ Thanks to: @antony-jy https://github.com/antony-jr
 ### Donate!
 Support the authors:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://liberapay.com/kakscot/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
